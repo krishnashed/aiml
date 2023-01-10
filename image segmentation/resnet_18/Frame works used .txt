@@ -1,0 +1,4 @@
+model ------> resnet18
+frame works ------->  pytorch, onnx
+
+openvino toolkit to install ---->>  "pip install openvino-dev[onnx,tensorflow2,pytorch]==2022.1.0"
